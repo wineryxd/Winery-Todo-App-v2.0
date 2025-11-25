@@ -1,0 +1,11 @@
+[
+  {
+    "id": "e3cd5a97-29d7-492f-9f35-62dd902bc758",
+    "name": "Builder",
+    "email": "owner@winery.board",
+    "passwordHash": "$2b$10$mt1gY/TGsYOEynWrYxlqN.tZDmzC32xVQ2GFlJRkilSizBr6GNyB6",
+    "role": "admin",
+    "createdAt": 1764064837557,
+    "todos": []
+  }
+]

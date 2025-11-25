@@ -1,0 +1,11 @@
+[
+  {
+    "id": "6b5b284a-1ef0-4edf-8f52-a67e7effe753",
+    "name": "Winery",
+    "email": "unutulanbardak@gmail.com",
+    "passwordHash": "$2b$10$v.OJ5woBqfMZe0U5Ix1ZZuUCM9yn17kbHODKH8GizB/pDp8uL4pja",
+    "createdAt": 1764064907752,
+    "role": "user",
+    "todos": []
+  }
+]
